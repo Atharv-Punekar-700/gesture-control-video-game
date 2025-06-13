@@ -55,6 +55,6 @@
 <hr style="border: 1px solid #e74c3c; width: 80%; margin: 20px auto;">
 
 <p style="text-align: center; font-family: 'Open Sans', sans-serif; color: #34495e; font-size: 14px;">
-  © 2024 Anushka Rakshe - All rights reserved.
+  © 2024 Atharv Santosh Punekar - All rights reserved.
 </p>
 
